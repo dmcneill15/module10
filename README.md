@@ -5,7 +5,7 @@ Dockerhub & Github Actions exercise using a previously created calculator applic
 ```
 docker pull dvveijeren/mvc-structure
 ```
-To test go to
+Once pulled and ruuning, can test on
 ```
 localhost:5000
 ```
