@@ -12,3 +12,8 @@ localhost:5000
 
 ### Addtional info
 Github Actions workflow added to automatically send committed changes to Dockerhub
+
+## E2C Instance link
+```
+http://ec2-54-252-21-76.ap-southeast-2.compute.amazonaws.com/
+```
